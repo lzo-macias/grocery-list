@@ -63,11 +63,10 @@ body {
     display: inline-block;
     box-sizing: border-box;
     text-align: left;
-    width: 96.1%;
+    width: 91%;
     border: 3px solid antiquewhite;
     padding: 10px;
     background-color: rgb(237, 149, 245);
-
 }
 .type{
     display: inline-block;
@@ -80,8 +79,7 @@ body {
     /* vertical-align: top; */
 }
 
-/* .img-type{
-   
-} */
-
+.the-big-section{
+    display: flex;
+}
 
